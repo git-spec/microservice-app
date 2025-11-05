@@ -31,6 +31,4 @@ public class Product {
     private final Images images;
     private final BigDecimal price;
     private final Currency currency;
-    private final int amount;
-
 }
