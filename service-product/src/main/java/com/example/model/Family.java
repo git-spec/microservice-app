@@ -9,7 +9,7 @@ public enum Family {
   STOOL( "Stool"),
   SOFA("Sofa"),
   COUCH("Couch"),
-  TABLE("Table");
+  SIDE_TABLE("Side Table");
 
   private final String value;
 
